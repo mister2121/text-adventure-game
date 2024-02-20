@@ -32,6 +32,6 @@ You can find out the available commands by yourself or here is the full list:
 
 For the starters there is 6 simple maps available. They are .json files, therefore one can create as many new maps with his own enemies, objectives and items, as long as they are kept in the same structure.
 
-## What's next?
+## Further development
 
 Currently the project development is stopped. The next work would include enhancing the game by adding new functionalities, such as succesfull or unsuccesfull messages which are in map5 or map6 and overall adding more structure to the game.
