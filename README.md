@@ -34,4 +34,4 @@ For the starters there is 6 simple maps available. They are .json files, therefo
 
 ## Further development
 
-Currently the project development is stopped. The next work would include enhancing the game by adding new functionalities, such as succesfull or unsuccesfull messages which are in map5 or map6 and overall adding more structure to the game.
+Currently the project development is stopped. The next work would include enhancing the game by adding new functionalities, such as successful or unsuccessful messages which are in map5 or map6 and overall adding more structure to the game.
